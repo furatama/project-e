@@ -1,0 +1,14 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+@import url("https://use.fontawesome.com/releases/v5.2.0/css/all.css");
+
+@import "~bulmaswatch/minty/variables";
+@import "variables";
+@import '~bulma/bulma';
+@import "~bulmaswatch/minty/overrides";
+@import "overrides";
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
